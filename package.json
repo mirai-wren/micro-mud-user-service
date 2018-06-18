@@ -1,0 +1,19 @@
+{
+  "name": "micro-mud-user-service",
+  "version": "1.0.0",
+  "description": "User service for the micro MUD.",
+  "private": true,
+  "scripts": {
+    "start": "npm audit && node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirai-wren/micro-mud-user-service.git"
+  },
+  "author": "Mirai Wren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirai-wren/micro-mud-user-service/issues"
+  },
+  "homepage": "https://github.com/mirai-wren/micro-mud-user-service#readme"
+}
